@@ -1,0 +1,9 @@
+#1.
+int i = 0 인데, case에서는 char type이었으므로 defualt을 실행
+
+#2. 
+C에는 if-else 혹은 if, else if , else 만 있다.
+elif라는 것이 없음.
+
+#3.
+for문에서 먼저 increment가 실행됨.

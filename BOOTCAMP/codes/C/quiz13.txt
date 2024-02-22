@@ -1,0 +1,23 @@
+1. Compiler translate, execute at a time 
+-> not Compiler, it is Interpreter
+-> 기계어로 번역 이후 실행
+
+2. A funtion block is indicated by {}(brackets)
+
+3. 
+float a = 2*4 
+// 8.0
+int b = a / 2.5 
+// 3
+float c = 14 / b % 3 
+//  14 / 3 -> 4.6 (정수 나누기 정수이기에 4이다.) -> %3 : 1 -> 1.0
+char d = "A" + c
+// "A" + 1 -> "B"(66)
+
+bool e = "D" - d
+// 1 (True or False)
+
+
+4. A variable type is immutable :  수정할 수 없음.
+
+5. function executed -> highest numbered address stored in frame pointer
